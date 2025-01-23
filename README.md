@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Brandon Wilson
-___________________________________
 
 I'm a student-athlete at Florida Southern College pursiing a B.S. in Computer Science.
 
