@@ -6,5 +6,5 @@ I'm a student-athlete at Florida Southern College pursiing a B.S. in Computer Sc
 - 🌱 I’m currently learning C, TailwindCSS, and Spanish.
 - 💬 Ask me about Laravel, Full Stack Development, Swimming, or Football.
 - 📫 How to reach me: brandonewilson2002@gmail.com
-- ⚡ Fun fact: I am currently on my collegiate swim team, love to watch the Baltimore Ravens, and watch anime.
+- ⚡ Fun fact: I am currently on my Collegiate Swim Team, love to watch the Baltimore Ravens, and watch One Piece.
 
