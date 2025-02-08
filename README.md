@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Brandon Wilson
 
-I'm a student-athlete at Florida Southern College pursiing a B.S. in Computer Science.
+I'm a student-athlete at Florida Southern College pursuing a B.S. in Computer Science.
 
 - 🔭 I’m currently working on my fantasy football website for my family as well as a personal portfolio website.
 - 🌱 I’m currently learning C, TailwindCSS, and Spanish.
